@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+.row{
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.card-text{
+    max-height: 190px;
+    overflow: hidden;
+}
+
+.full-desc{   
+max-width: 900px;
+margin-top: 20px;
+}
