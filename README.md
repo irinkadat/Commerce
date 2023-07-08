@@ -1,7 +1,7 @@
-# Website link
+## Link
 https://irinka.pythonanywhere.com/
 
-# Commerce Web App
+## About Commerce Web App
 
 This is a Django web application for an auction site called "Commerce". It allows users to create auction listings, place bids, add items to their watchlist, and comment on listings.
 
